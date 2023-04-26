@@ -1,0 +1,25 @@
+body{
+  margin-left: 300px;
+  margin-right:300px;
+  margin-top: 50px;
+}
+h1{
+  font-family: Montserrat;
+  
+}
+.date{
+  font-family: Roboto;
+  color: 008080;
+  margin: 15px;
+}
+.post-container{
+ font-family:open sans; 
+}
+.post{
+  background-color: fffaf;
+}
+div{
+  font-size: 15px;
+  margin-right: 10px;
+  margin-left: 10px;
+}
